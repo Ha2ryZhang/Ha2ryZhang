@@ -6,6 +6,5 @@
 
 ### Hi there is HarryZhang 👋
 
-### Contact me 📱
+### Ethereum Believers
 
-- Email : harryzhang@debugers.com
